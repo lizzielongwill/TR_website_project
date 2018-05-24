@@ -1,7 +1,18 @@
 h1{color: redblack; font-size: 60px}
 body{background-color: whitesmoke}
 p{font-weight: lighter}
-p{font-family: 'Courier New', Courier, monospace font-size: 15}
+p{font-family: 'Courier New', Courier, monospace}
 h6{color:black}
 h2{color: black; font-family: 'Courier New';font-size: 20}
-
+.navbar-default{
+    background-color: #ffffff !important;
+    color: #292929 !important;
+    border-top: solid 0 #b9b9b9;
+    border-left: solid 0 #b9b9b9;
+    border-bottom: solid 1px #b9b9b9;
+    border-right: solid 0 #b9b9b9;
+    height: 55px;
+    list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
