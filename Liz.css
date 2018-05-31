@@ -30,25 +30,3 @@ h2{color: black; font-family: 'Courier New';font-size: 20}
 #nav li a:hover {
 	color: #c00;
     background-color: #fff; }
-    div.gallery {
-        margin: 5px;
-        border: 1px solid #ccc;
-        float: left;
-        width: 180px;
-    }
-    
-    div.gallery:hover {
-        border: 1px solid #777;
-    }
-    
-    div.gallery img {
-        width: 100%;
-        height: auto;
-    }
-    
-    div.desc {
-        padding: 15px;
-        text-align: center;
-    }
-   
-    
