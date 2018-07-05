@@ -1,4 +1,4 @@
-h1{color: redblack; font-size: 60px}
+h1{color: redblack; font-size: 40px}
 h3{color: black; font-family: 'Courier New';font-size: 14}
 body{background-color: whitesmoke}
 p{font-weight: lighter}
@@ -65,5 +65,3 @@ h2{color: black; font-family: 'Courier New';font-size: 20}
 	color: white;
 }
 
-/* Style all .var quotes */
-.var quotes {font-family: 'Courier New', Courier, monospace font-size 20}
